@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Danilvar.Random", "Danilvar.Random\Danilvar.Random.csproj", "{71FBE9AF-1249-4BE7-8D18-E277461E76DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Danilvar.Random.Samples", "Danilvar.Random.Samples\Danilvar.Random.Samples.csproj", "{5A00BD18-3A23-4498-9B15-FE11DB53A3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FBE9AF-1249-4BE7-8D18-E277461E76DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FBE9AF-1249-4BE7-8D18-E277461E76DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FBE9AF-1249-4BE7-8D18-E277461E76DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FBE9AF-1249-4BE7-8D18-E277461E76DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A00BD18-3A23-4498-9B15-FE11DB53A3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A00BD18-3A23-4498-9B15-FE11DB53A3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A00BD18-3A23-4498-9B15-FE11DB53A3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A00BD18-3A23-4498-9B15-FE11DB53A3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0369AA68-3724-4647-B848-6882F6DB4A8F}
+	EndGlobalSection
+EndGlobal
